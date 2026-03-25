@@ -1,0 +1,15 @@
+{
+  "name": "Flavia",
+  "goal": "I want to transition from analytics into LLM applications for business workflows and build production-ready AI assistants.",
+  "current_level": "intermediate",
+  "weekly_hours": 8,
+  "known_skills": [
+    "python",
+    "sql",
+    "pandas",
+    "power bi",
+    "statistics",
+    "streamlit"
+  ],
+  "target_role": "Applied AI Engineer"
+}

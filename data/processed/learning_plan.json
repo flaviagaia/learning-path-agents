@@ -1,0 +1,139 @@
+{
+  "profile": {
+    "name": "Flavia",
+    "goal": "I want to transition from analytics into LLM applications for business workflows and build production-ready AI assistants.",
+    "current_level": "intermediate",
+    "weekly_hours": 8,
+    "known_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "power bi",
+      "statistics",
+      "streamlit"
+    ],
+    "target_role": "Applied AI Engineer"
+  },
+  "diagnosis": {
+    "goal_summary": "I want to transition from analytics into LLM applications for business workflows and build production-ready AI assistants.",
+    "current_level": "intermediate",
+    "weekly_hours": 8,
+    "intensity": "balanced",
+    "target_role": "Applied AI Engineer",
+    "known_skills": [
+      "pandas",
+      "power bi",
+      "python",
+      "sql",
+      "statistics",
+      "streamlit"
+    ],
+    "skill_gaps": [
+      "rag",
+      "mlops",
+      "api",
+      "evaluation",
+      "embeddings"
+    ]
+  },
+  "weekly_plan": [
+    {
+      "week": 1,
+      "focus": "Prompt Engineering and Evaluation",
+      "hours": 8,
+      "activities": [
+        {
+          "course_id": "C011",
+          "title": "Prompt Engineering and Evaluation",
+          "allocated_hours": 8
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "focus": "Product Analytics and KPI Design",
+      "hours": 8,
+      "activities": [
+        {
+          "course_id": "C017",
+          "title": "Product Analytics and KPI Design",
+          "allocated_hours": 8
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "focus": "Product Analytics and KPI Design",
+      "hours": 8,
+      "activities": [
+        {
+          "course_id": "C017",
+          "title": "Product Analytics and KPI Design",
+          "allocated_hours": 2
+        },
+        {
+          "course_id": "C014",
+          "title": "Databricks Workflows and Lakehouse",
+          "allocated_hours": 6
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "focus": "Databricks Workflows and Lakehouse",
+      "hours": 8,
+      "activities": [
+        {
+          "course_id": "C014",
+          "title": "Databricks Workflows and Lakehouse",
+          "allocated_hours": 5
+        },
+        {
+          "course_id": "C009",
+          "title": "MLOps and Model Serving",
+          "allocated_hours": 3
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "focus": "MLOps and Model Serving",
+      "hours": 8,
+      "activities": [
+        {
+          "course_id": "C009",
+          "title": "MLOps and Model Serving",
+          "allocated_hours": 8
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "focus": "MLOps and Model Serving",
+      "hours": 8,
+      "activities": [
+        {
+          "course_id": "C009",
+          "title": "MLOps and Model Serving",
+          "allocated_hours": 2
+        },
+        {
+          "course_id": "C010",
+          "title": "NLP with Transformers",
+          "allocated_hours": 6
+        }
+      ]
+    }
+  ],
+  "coach_notes": {
+    "narrative": "This path prioritizes llm, analytics, cloud to support the transition into Applied AI Engineer. The sequence starts with high-match content and spreads the workload across 6 weeks.",
+    "risks": [
+      "Reserve time for experimentation, not only theory."
+    ],
+    "success_signals": [
+      "Complete the first two courses within the first half of the plan.",
+      "Build one portfolio artifact by week 4.",
+      "Review progress weekly and rebalance hours if one course drags behind."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+course_id,title,track,level,duration_hours,skills,description
+C001,Python Foundations for Data Work,data,beginner,10,"python, syntax, notebooks, debugging",Build confidence with Python fundamentals for analytics and automation.
+C002,SQL for Analytical Queries,data,beginner,8,"sql, joins, aggregation, filters",Learn SQL queries for reporting and relational analysis.
+C003,Statistics for Product Decisions,analytics,intermediate,12,"statistics, hypothesis testing, variance, confidence intervals",Use descriptive and inferential statistics to support business decisions.
+C004,A/B Testing in Practice,analytics,intermediate,9,"ab testing, experimentation, metrics, causal inference",Design and analyze experiments with practical guardrails.
+C005,PySpark for Large-Scale Pipelines,data engineering,intermediate,14,"pyspark, spark sql, distributed computing, etl",Build scalable transformations on large tabular datasets.
+C006,Data Modeling for Analytics,data engineering,intermediate,10,"star schema, dimensions, facts, data marts","Model data for BI, reporting, and machine learning consumption."
+C007,Machine Learning Fundamentals,machine learning,beginner,11,"supervised learning, regression, classification, evaluation",Understand classic ML workflows from features to metrics.
+C008,Feature Engineering for Tabular Models,machine learning,intermediate,10,"feature engineering, preprocessing, pipelines, leakage",Create stronger tabular models with thoughtful feature design.
+C009,MLOps and Model Serving,machine learning,advanced,13,"mlops, deployment, monitoring, api","Operationalize models with reproducibility, monitoring, and APIs."
+C010,NLP with Transformers,llm,intermediate,12,"nlp, transformers, embeddings, tokenization",Work with transformer models for classification and semantic tasks.
+C011,Prompt Engineering and Evaluation,llm,intermediate,8,"prompt engineering, evaluation, few-shot, guardrails",Design prompts and evaluate LLM performance rigorously.
+C012,RAG Systems and Vector Search,llm,advanced,12,"rag, vector search, chunking, retrieval evaluation",Build retrieval-augmented systems with semantic search.
+C013,Cloud Basics for Data Teams,cloud,beginner,9,"cloud, storage, compute, security",Understand core cloud primitives used by data platforms.
+C014,Databricks Workflows and Lakehouse,cloud,intermediate,11,"databricks, lakehouse, notebooks, orchestration",Use Databricks concepts for data engineering and collaborative analytics.
+C015,Data Storytelling for Analysts,communication,beginner,7,"storytelling, dashboards, executive communication, visualization",Present insights with narrative structure and visual clarity.
+C016,Stakeholder Management for Technical Projects,communication,intermediate,6,"stakeholder management, planning, prioritization, negotiation",Navigate trade-offs and communication in cross-functional work.
+C017,Product Analytics and KPI Design,analytics,intermediate,10,"kpi, funnels, retention, product analytics",Define metrics and analyze product behavior in business context.
+C018,Git and Collaborative Workflows,engineering,beginner,5,"git, branching, pull requests, collaboration",Use Git confidently in day-to-day collaborative projects.

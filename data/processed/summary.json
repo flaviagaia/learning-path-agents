@@ -1,0 +1,15 @@
+{
+  "courses_in_catalog": 18,
+  "selected_courses": 6,
+  "weeks_planned": 6,
+  "target_role": "Applied AI Engineer",
+  "skill_gaps": [
+    "rag",
+    "mlops",
+    "api",
+    "evaluation",
+    "embeddings"
+  ],
+  "top_course": "Prompt Engineering and Evaluation",
+  "total_planned_hours": 48
+}

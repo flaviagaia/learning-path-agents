@@ -1,0 +1,7 @@
+course_id,title,track,level,duration_hours,skills,match_score,final_score
+C011,Prompt Engineering and Evaluation,llm,intermediate,8,"prompt engineering, evaluation, few-shot, guardrails",0.05184716391948617,0.05184716391948617
+C017,Product Analytics and KPI Design,analytics,intermediate,10,"kpi, funnels, retention, product analytics",0.04054555654185048,0.04054555654185048
+C014,Databricks Workflows and Lakehouse,cloud,intermediate,11,"databricks, lakehouse, notebooks, orchestration",0.02784655102232263,0.02784655102232263
+C009,MLOps and Model Serving,machine learning,advanced,13,"mlops, deployment, monitoring, api",0.0750531012524647,0.025053101252464696
+C010,NLP with Transformers,llm,intermediate,12,"nlp, transformers, embeddings, tokenization",0.02394348571332039,0.02394348571332039
+C003,Statistics for Product Decisions,analytics,intermediate,12,"statistics, hypothesis testing, variance, confidence intervals",0.01663869326032485,0.01663869326032485
