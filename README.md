@@ -281,6 +281,10 @@ Skill gaps identificados na demo:
 - `evaluation`
 - `embeddings`
 
+### Interface
+
+![Painel Streamlit](assets/streamlit_dashboard.jpg)
+
 ### Estrutura do repositório
 
 - `app.py`
