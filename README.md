@@ -131,7 +131,7 @@ O projeto usa dados sintéticos controlados, com foco em reproduzibilidade e cla
 #### Catálogo de cursos
 
 Arquivo:
-- [course_catalog.csv](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/data/raw/course_catalog.csv)
+- `data/raw/course_catalog.csv`
 
 Contém:
 - `18` cursos
@@ -156,14 +156,14 @@ Colunas:
 #### Perfil demo
 
 Arquivo:
-- [sample_profile.json](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/data/raw/sample_profile.json)
+- `data/raw/sample_profile.json`
 
 Representa uma profissional com background em analytics e objetivo de migrar para `Applied AI Engineer`.
 
 ### Pipeline
 
 O pipeline principal está em:
-- [pipeline.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/src/pipeline.py)
+- `src/pipeline.py`
 
 Fluxo:
 1. gera ou atualiza os dados demo
@@ -174,9 +174,9 @@ Fluxo:
 6. persiste artefatos processados para consumo da interface
 
 Artefatos gerados:
-- [learning_plan.json](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/data/processed/learning_plan.json)
-- [selected_courses.csv](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/data/processed/selected_courses.csv)
-- [summary.json](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/data/processed/summary.json)
+- `data/processed/learning_plan.json`
+- `data/processed/selected_courses.csv`
+- `data/processed/summary.json`
 
 ### Técnicas usadas
 
@@ -283,12 +283,12 @@ Skill gaps identificados na demo:
 
 ### Estrutura do repositório
 
-- [app.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/app.py)
-- [main.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/main.py)
-- [agents.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/src/agents.py)
-- [pipeline.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/src/pipeline.py)
-- [data_generation.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/src/data_generation.py)
-- [test_pipeline.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/tests/test_pipeline.py)
+- `app.py`
+- `main.py`
+- `src/agents.py`
+- `src/pipeline.py`
+- `src/data_generation.py`
+- `tests/test_pipeline.py`
 
 ### Como executar
 
@@ -302,7 +302,7 @@ streamlit run app.py
 
 ### Teste automatizado
 
-O teste em [test_pipeline.py](/Users/flaviagaia/Documents/CV_FLAVIA_CODEX/learning-path-agents/tests/test_pipeline.py) valida:
+O teste em `tests/test_pipeline.py` valida:
 
 - geração dos artefatos
 - quantidade esperada de cursos selecionados
